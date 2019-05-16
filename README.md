@@ -18,7 +18,7 @@ BibTex:
 @inproceedings{pang2017selective,
   title={Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data},
   author={Pang, Guansong and Xu, Hongzuo and Cao, Longbing and Zhao, Wentao},
-  booktitle={Proceedings of the 2017 ACM on Conference on Information and Knowledge Management},
+  booktitle={Proceedings of the 2017 ACM International Conference on Information and Knowledge Management},
   pages={807--816},
   year={2017},
   organization={ACM}
