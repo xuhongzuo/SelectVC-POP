@@ -15,7 +15,7 @@ Please cite our paper if the source code can help you.
 > Pang, G., Xu, H., Cao, L., & Zhao, W. (2017, November). Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (pp. 807-816). ACM.
 
 
-BibTex:
+BibTex:  
 '''
 @inproceedings{pang2017selective,
   title={Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data},
