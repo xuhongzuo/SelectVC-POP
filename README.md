@@ -12,9 +12,11 @@ Except AUC result and execution time, the result of data indicator "coup" is als
 
 Please cite our paper if the source code can help you.
 
-Pang, G., Xu, H., Cao, L., & Zhao, W. (2017, November). Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (pp. 807-816). ACM.
+> Pang, G., Xu, H., Cao, L., & Zhao, W. (2017, November). Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data. In Proceedings of the 2017 ACM on Conference on Information and Knowledge Management (pp. 807-816). ACM.
+
 
 BibTex:
+'''
 @inproceedings{pang2017selective,
   title={Selective Value Coupling Learning for Detecting Outliers in High-Dimensional Categorical Data},
   author={Pang, Guansong and Xu, Hongzuo and Cao, Longbing and Zhao, Wentao},
@@ -23,3 +25,4 @@ BibTex:
   year={2017},
   organization={ACM}
 }
+'''
